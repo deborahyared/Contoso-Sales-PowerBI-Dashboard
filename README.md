@@ -24,13 +24,8 @@ This interactive sales analytics dashboard was built using Power BI and the Micr
 ## 📷 Dashboard Previews
 
 ### 📄 Page 1: Sales Overview
-![Sales Overview](images/sales-overview.png)
 
 ### 📄 Page 2: Product Performance
-![Product Performance](images/product-performance.png)
-
-*(Optional: Add Page 3 screenshot too)*
-
 ---
 
 ## 🛠 Tools & Skills Used
@@ -47,7 +42,6 @@ This interactive sales analytics dashboard was built using Power BI and the Micr
 
 Hi! I'm Deborah, a 21-year-old aspiring data analyst with a strong interest in business intelligence. I’ve completed hands-on training in SQL and Power BI and created this dashboard as part of my portfolio to demonstrate my skills.
 
-📧 [Your email]  
-🌐 [LinkedIn profile]  
+deborahdemissie37@gmail.com
 📁 More projects coming soon!
 
